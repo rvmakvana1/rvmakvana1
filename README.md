@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Ranjit Makvana! 
+# Hi there, I'm Ranjit Makvana
 
-**AI Automation Engineer & Freelancer** 🚀  
+**AI Automation Engineer** 
 I build advanced AI agents, automate complex business workflows, and develop autonomous systems using Python, n8n, and LLMs to solve real-world business challenges.
 
 ---
